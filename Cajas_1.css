@@ -1,0 +1,16 @@
+div{
+	border-top: 20px solid purple;
+	border-left: 10px solid purple;
+	border-bottom: 20px solid purple;
+	border-right: 10px solid purple;
+	width: 300px;
+	margin: 120px 60px 30.5px 60px solid violet;
+	height: 90px;
+	background-color: gold;
+	padding: 40px 20px 70px 100px;
+}
+p{
+	border: dashed green;
+	background-color: white;
+	padding: 40px 20px 70px 100px;
+}
